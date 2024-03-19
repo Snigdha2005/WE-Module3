@@ -1,0 +1,8 @@
+1. Initial Approach: rolling dice, calculating category and then score in 2 functions. Average score for each simulation calculated.
+2. Created dictionary to store the count value of each dice roll. Decides category based on count. Global scorecard, num_to_str dictionaries to keep track of score and know category for occurance of pairs. calculate_score function to update the scorecard based on the category and roll. play_yahtzee function for simulation.
+
+-> Logic for Small straight and Large Straight given by Chat GPT wrong each time.
+-> For pairs, calculation of score based on the string manipulations- error
+-> Too many elif, if else statements
+-> Sequencing of code not done properly.
+-> Logic for Small Straight, chance mistaken in test cases checking (chat gpt)
